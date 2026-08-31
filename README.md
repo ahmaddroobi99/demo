@@ -1,19 +1,10 @@
-# demo
+# Maven Spring Boot demo skeleton
 
-Original Java coursework / practice repository (2021).
+Default Spring Boot + Maven skeleton (`pom.xml`, `mvnw`, `src/`). Generated demo, not an application.
 
-This repository is **original work** on this account. It is kept for provenance.
+**Stack:** Java, Spring Boot, Maven
 
-It is **not** current research. Featured work:
+---
+Historical **BSc Computer Engineering** work (An-Najah National University, 2021). Kept for provenance — not current research.
 
-- [qg-lada-lab](https://github.com/ahmaddroobi99/qg-lada-lab) — QG Lagrangian data assimilation
-- [ai-perception-lab](https://github.com/ahmaddroobi99/ai-perception-lab) — computer vision lab
-- Profile: [github.com/ahmaddroobi99](https://github.com/ahmaddroobi99)
-
-## Language
-
-Java
-
-## Year
-
-2021
+Current work: [github.com/ahmaddroobi99](https://github.com/ahmaddroobi99)
